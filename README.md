@@ -4,7 +4,8 @@
 
 
 To install all dependencies run 'yarn add --dev jest'  
-and 'yarn add --dev babel-jest @babel/core @babel/preset-env'.  
+and 'yarn add --dev babel-jest @babel/core @babel/preset-env'. 
+
 Then update package.json with:  
     "scripts":   
     {  
