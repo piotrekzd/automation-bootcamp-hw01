@@ -2,7 +2,7 @@
 
 ## Setup
 Clone this repository.   
-Run `yarn` in the root directory to install all dependecies.    
+Run `yarn install` in the root directory to install all dependecies.    
 
 ## Tests
 Run `yarn test` to check the command output.
