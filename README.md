@@ -1,6 +1,9 @@
 # automation-bootcamp-hw01
 
+## Setup
+Clone this repository.   
+Run `yarn` in the root directory to install all dependecies.    
 
-## Test
-Run `yarn test` to check the result.
+## Tests
+Run `yarn test` to check the command output.
 
